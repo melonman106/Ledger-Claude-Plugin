@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "Ledger",
+      "source": "https://github.com/melonman106/Ledger-Claude-Plugin"
+    }
+  ]
+}
