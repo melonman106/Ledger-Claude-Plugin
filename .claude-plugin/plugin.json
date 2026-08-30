@@ -1,0 +1,8 @@
+{
+  "name": "Ledger",
+  "description": "A workflow plugin to scope, Apple-fy, and production-proof projects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Demonic_AI"
+  }
+}
