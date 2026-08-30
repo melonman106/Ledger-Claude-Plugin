@@ -1,8 +1,33 @@
 {
-  "plugins": {
-    "dev-workflow": {
-      "repo": "https://github.com/melonman106/Ledger-Claude-Plugin",
-      "branch": "main"
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "Ledger",
+  "metadata": {
+    "description": "A specialized workflow for locked Chromebooks: Scopes projects for Cloudflare Free Tier, Apple-fies web UIs, and preps code for Edge production."
+  },
+  "owner": {
+    "name": "Alexander Mulder",
+    "email": "muldera@hcs.sa.edu.au"
+  },
+  "plugins": [
+    {
+      "name": "Ledger",
+      "description": "A specialized workflow for locked Chromebooks: Scopes projects for Cloudflare Free Tier, Apple-fies web UIs, and preps code for Edge production.",
+      "version": "4.1.2",
+      "author": {
+        "name": "Alexander Mulder",
+        "email": "muldera@hcs.sa.edu.au"
+      },
+      "source": "./skills",
+      "category": "debug",
+      "homepage": "Ledgerapp.dpdns.org",
+      "tags": [
+        "debug",
+        "frontend",
+        "ui",
+        "ux",
+        "skills",
+        "commands"
+      ]
     }
-  }
+  ]
 }
