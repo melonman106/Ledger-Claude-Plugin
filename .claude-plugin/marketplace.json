@@ -1,3 +1,8 @@
 {
-  "dev-workflow": "https://github.com/melonman106/Ledger-Claude-Plugin/"
+  "plugins": {
+    "dev-workflow": {
+      "repo": "https://github.com/melonman106/Ledger-Claude-Plugin",
+      "branch": "main"
+    }
+  }
 }
